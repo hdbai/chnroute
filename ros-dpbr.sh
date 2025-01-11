@@ -16,6 +16,12 @@ wget --no-check-certificate -c -O cernet.txt https://ispip.clang.cn/cernet_cidr.
 wget --no-check-certificate -c -O gwbn.txt https://ispip.clang.cn/gwbn_cidr.txt
 #其他
 wget --no-check-certificate -c -O other.txt https://ispip.clang.cn/othernet_cidr.txt
+#所有cn_ipv4
+wget --no-check-certificate -c -O cn_ipv4.txt https://ispip.clang.cn/all_cn.txt
+#所有cn_ipv6
+wget --no-check-certificate -c -O cn_ipv6.txt https://ispip.clang.cn/all_cn_ipv6.txt
+#移动ipv6
+wget --no-check-certificate -c -O cmcc_ipv6.txt https://ispip.clang.cn/cmcc_ipv6.txt
 
 {
 echo "/ip route rule"
@@ -80,6 +86,21 @@ done
 for net in $(cat other.txt) ; do
   echo "add list=dpbr-CT address=$net"
 done
+
+for net in $(cat cn_ipv4.txt) ; do
+  echo "add list=CNIP address=$net"
+done
+
+echo "/ipv6 firewall address-list"
+
+for net in $(cat cmcc_ipv6.txt) ; do
+  echo "add list=cmcc_ipv6 address=$net"
+done
+
+for net in $(cat cn_ipv6.txt) ; do
+  echo "add list=all_cn_ipv6 address=$net"
+done
+
 } > ../ros-dpbr-CT-CMCC.rsc
 
 
