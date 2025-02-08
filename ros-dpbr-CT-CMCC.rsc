@@ -38,7 +38,6 @@ add list=dpbr-CT address=1.10.32.0/19
 add list=dpbr-CT address=1.10.64.0/18
 add list=dpbr-CT address=1.48.0.0/15
 add list=dpbr-CT address=1.50.0.0/16
-add list=dpbr-CT address=1.68.0.0/14
 add list=dpbr-CT address=1.80.0.0/13
 add list=dpbr-CT address=1.180.0.0/14
 add list=dpbr-CT address=1.192.0.0/13
@@ -2698,6 +2697,7 @@ add list=dpbr-CT address=1.4.4.0/24
 add list=dpbr-CT address=1.8.0.0/16
 add list=dpbr-CT address=1.12.0.0/14
 add list=dpbr-CT address=1.45.0.0/16
+add list=dpbr-CT address=1.68.0.0/14
 add list=dpbr-CT address=1.88.0.0/14
 add list=dpbr-CT address=1.92.0.0/15
 add list=dpbr-CT address=1.116.0.0/14
@@ -14955,6 +14955,7 @@ add list=all_cn_ipv6 address=2400:7f80::/32
 add list=all_cn_ipv6 address=2400:7fc0::/32
 add list=all_cn_ipv6 address=2400:8080::/32
 add list=all_cn_ipv6 address=2400:8200::/32
+add list=all_cn_ipv6 address=2400:8201::/32
 add list=all_cn_ipv6 address=2400:82c0::/32
 add list=all_cn_ipv6 address=2400:8580::/32
 add list=all_cn_ipv6 address=2400:8600::/32
