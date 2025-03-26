@@ -5589,7 +5589,6 @@ add list=dpbr-CT address=163.61.202.0/23
 add list=dpbr-CT address=163.61.214.0/23
 add list=dpbr-CT address=163.223.28.0/23
 add list=dpbr-CT address=163.223.32.0/23
-add list=dpbr-CT address=163.223.68.0/23
 add list=dpbr-CT address=163.223.124.0/23
 add list=dpbr-CT address=163.223.156.0/23
 add list=dpbr-CT address=163.223.173.0/24
@@ -12355,7 +12354,6 @@ add list=CNIP address=163.179.0.0/16
 add list=CNIP address=163.204.0.0/16
 add list=CNIP address=163.223.28.0/23
 add list=CNIP address=163.223.32.0/23
-add list=CNIP address=163.223.68.0/23
 add list=CNIP address=163.223.124.0/23
 add list=CNIP address=163.223.156.0/23
 add list=CNIP address=163.223.173.0/24
@@ -15384,7 +15382,6 @@ add list=all_cn_ipv6 address=2401:f220::/32
 add list=all_cn_ipv6 address=2401:f300::/32
 add list=all_cn_ipv6 address=2401:f320::/32
 add list=all_cn_ipv6 address=2401:f3e0::/32
-add list=all_cn_ipv6 address=2401:f4a0::/32
 add list=all_cn_ipv6 address=2401:f7c0::/32
 add list=all_cn_ipv6 address=2401:f860::/32
 add list=all_cn_ipv6 address=2401:fa80::/32
