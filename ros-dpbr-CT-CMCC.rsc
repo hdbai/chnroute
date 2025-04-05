@@ -16715,6 +16715,7 @@ add list=all_cn_ipv6 address=2408:6000::/24
 add list=all_cn_ipv6 address=2408:8000::/22
 add list=all_cn_ipv6 address=2408:8400::/22
 add list=all_cn_ipv6 address=2408:8800::/21
+add list=all_cn_ipv6 address=2409:1000::/20
 add list=all_cn_ipv6 address=2409:2000::/21
 add list=all_cn_ipv6 address=2409:6000::/20
 add list=all_cn_ipv6 address=2409:8000::/20
