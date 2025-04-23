@@ -5090,7 +5090,6 @@ add list=dpbr-CT address=113.52.228.0/22
 add list=dpbr-CT address=113.130.96.0/20
 add list=dpbr-CT address=113.130.112.0/21
 add list=dpbr-CT address=113.192.40.0/23
-add list=dpbr-CT address=113.192.56.0/23
 add list=dpbr-CT address=113.197.100.0/22
 add list=dpbr-CT address=113.202.0.0/16
 add list=dpbr-CT address=113.209.0.0/16
@@ -11337,7 +11336,6 @@ add list=CNIP address=113.130.112.0/21
 add list=CNIP address=113.132.0.0/14
 add list=CNIP address=113.136.0.0/13
 add list=CNIP address=113.192.40.0/23
-add list=CNIP address=113.192.56.0/23
 add list=CNIP address=113.194.0.0/15
 add list=CNIP address=113.197.100.0/22
 add list=CNIP address=113.200.0.0/15
@@ -15203,7 +15201,6 @@ add list=all_cn_ipv6 address=2401:4f80::/32
 add list=all_cn_ipv6 address=2401:5180::/32
 add list=all_cn_ipv6 address=2401:5680::/32
 add list=all_cn_ipv6 address=2401:58a0::/32
-add list=all_cn_ipv6 address=2401:5960::/32
 add list=all_cn_ipv6 address=2401:59c0::/32
 add list=all_cn_ipv6 address=2401:5b40::/32
 add list=all_cn_ipv6 address=2401:5c20::/32
