@@ -5600,6 +5600,7 @@ add list=dpbr-CT address=163.227.76.0/22
 add list=dpbr-CT address=163.227.80.0/23
 add list=dpbr-CT address=163.228.0.0/16
 add list=dpbr-CT address=164.52.0.0/17
+add list=dpbr-CT address=165.99.4.0/24
 add list=dpbr-CT address=167.139.0.0/16
 add list=dpbr-CT address=167.189.0.0/16
 add list=dpbr-CT address=167.220.244.0/22
@@ -12366,6 +12367,7 @@ add list=CNIP address=163.227.78.0/23
 add list=CNIP address=163.227.80.0/23
 add list=CNIP address=163.228.0.0/16
 add list=CNIP address=164.52.0.0/17
+add list=CNIP address=165.99.4.0/24
 add list=CNIP address=166.111.0.0/16
 add list=CNIP address=167.139.0.0/16
 add list=CNIP address=167.189.0.0/16
