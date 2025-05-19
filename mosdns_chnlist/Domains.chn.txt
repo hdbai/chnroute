@@ -1345,8 +1345,11 @@
 115care.com
 115cdn.com
 115cdn.net
+115cloud.com
+115cloud.net
 115img.com
 115jk.com
+115meta.com
 115seo.com
 115vod.com
 115zb.com
@@ -12430,6 +12433,7 @@ amznz.com
 an1health.com
 an2.net
 an68.com
+analog.com
 analogfoundries.com
 analysysdata.com
 analytics.lenovo.com
@@ -26525,6 +26529,7 @@ copl.com.hk
 copotile.com
 copperalliance.asia
 copperhome.net
+copy-manga.com
 copyedu.com
 copyfuture.com
 copyswisswatches.com
@@ -28112,6 +28117,7 @@ ctripbuy.hk
 ctripc.com
 ctripcorp.com
 ctripgslb.com
+ctripgslb.net
 ctripins.com
 ctripqa.com
 ctripteam.com
@@ -35134,9 +35140,11 @@ esoua.com
 esound.vip
 esouou.com
 esoyu.com
+esp8266.com
 espeedpost.com
 esplus.club
 espnlol.com
+espressif.com
 esr.com
 essaystar.com
 essbjs.com
@@ -51314,6 +51322,7 @@ hqcg1984.com
 hqchip.com
 hqcr.com
 hqdlsn.com
+hqdoc.com
 hqdoor.com
 hqengroup.com
 hqepay.com
@@ -55838,6 +55847,7 @@ inferoey.com
 infertilitybridge.com
 infimotion.com
 infineon-autoeco.com
+infineon.com
 infini-ai.com
 infinisign.com
 infinitescript.com
@@ -56052,6 +56062,7 @@ interarknet.com
 interchinawater.com
 interface003.com
 intergreat.com
+internal
 international-gfe.nvidia.com
 internationalbrand.net
 internbird.com
@@ -56170,6 +56181,7 @@ iotku.com
 iotmag.com
 iotmore.com
 iotpai.com
+iotronic.tech
 iotrouter.com
 iots.vip
 iotsafe.net
@@ -58831,6 +58843,7 @@ jike.city
 jike.com
 jike.info
 jike800.com
+jikecdn.com
 jikedata.com
 jikefan.com
 jikegou.net
@@ -59996,6 +60009,8 @@ jlc-gw.com
 jlc-jh.com
 jlc-layout.com
 jlc-pcb.com
+jlc-smt.com
+jlc-zh.com
 jlc.com
 jlcar.net
 jlcca.com
@@ -70316,7 +70331,9 @@ manfen.net
 manfen5.com
 manfred-auto.com
 manfrottoclub.com
+mangacopy.com
 mangafuna.xyz
+mangafunb.fun
 manganesenanhai.com
 mangg.com
 mangguo.com
@@ -74968,6 +74985,8 @@ neolee.com
 neolix.net
 neomodulus.com
 neoremind.com
+neoscholar.com
+neoschool.com
 neosey.com
 neoyon.com
 nep-logistics.com
@@ -87712,6 +87731,7 @@ seedit.com
 seedland.cc
 seedlandss.com
 seedsufe.com
+seeed.cc
 seegif.com
 seehealth.net
 seehu.net
@@ -96902,6 +96922,7 @@ tgljw.com
 tglxh.com
 tgnet.com
 tgovcloud.com
+tgprocs.net
 tgr365.com
 tgshiguan.com
 tgslsst.com
@@ -97154,6 +97175,7 @@ thztv.net
 thzu.cc
 ti-node.com
 ti-solar.com
+ti.com
 ti0s.com
 ti4la.icu
 tiamaes.com
@@ -98860,6 +98882,7 @@ trip169.com
 trip8080.com
 tripbaba.com
 tripbe.com
+tripcdn.com
 triphr.com
 tripleuuu.com
 triplexservice.com
