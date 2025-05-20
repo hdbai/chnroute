@@ -1997,7 +1997,6 @@ add list=dpbr-CT address=103.108.244.0/22
 add list=dpbr-CT address=103.110.132.0/22
 add list=dpbr-CT address=103.110.156.0/22
 add list=dpbr-CT address=103.117.188.0/22
-add list=dpbr-CT address=103.120.224.0/22
 add list=dpbr-CT address=103.123.56.0/22
 add list=dpbr-CT address=103.141.242.0/23
 add list=dpbr-CT address=103.142.128.0/23
@@ -4203,6 +4202,7 @@ add list=dpbr-CT address=103.120.88.0/22
 add list=dpbr-CT address=103.120.96.0/21
 add list=dpbr-CT address=103.120.140.0/22
 add list=dpbr-CT address=103.120.196.0/22
+add list=dpbr-CT address=103.120.224.0/22
 add list=dpbr-CT address=103.121.52.0/22
 add list=dpbr-CT address=103.121.160.0/21
 add list=dpbr-CT address=103.121.250.0/24
@@ -14781,7 +14781,6 @@ add list=all_cn_ipv6 address=2001:df2:a580::/48
 add list=all_cn_ipv6 address=2001:df2:c240::/48
 add list=all_cn_ipv6 address=2001:df2:d4c0::/48
 add list=all_cn_ipv6 address=2001:df3:15c0::/48
-add list=all_cn_ipv6 address=2001:df3:2a80::/48
 add list=all_cn_ipv6 address=2001:df3:3a80::/48
 add list=all_cn_ipv6 address=2001:df3:7440::/48
 add list=all_cn_ipv6 address=2001:df3:9a40::/48
