@@ -1733,7 +1733,6 @@ add list=dpbr-CT address=14.204.0.0/15
 add list=dpbr-CT address=27.0.128.0/22
 add list=dpbr-CT address=27.8.0.0/13
 add list=dpbr-CT address=27.36.0.0/14
-add list=dpbr-CT address=27.40.0.0/13
 add list=dpbr-CT address=27.50.128.0/17
 add list=dpbr-CT address=27.54.192.0/18
 add list=dpbr-CT address=27.98.224.0/19
@@ -2718,6 +2717,7 @@ add list=dpbr-CT address=27.0.160.0/21
 add list=dpbr-CT address=27.0.188.0/22
 add list=dpbr-CT address=27.0.204.0/22
 add list=dpbr-CT address=27.0.208.0/21
+add list=dpbr-CT address=27.40.0.0/13
 add list=dpbr-CT address=27.98.208.0/20
 add list=dpbr-CT address=27.99.128.0/17
 add list=dpbr-CT address=27.103.0.0/16
@@ -4357,7 +4357,6 @@ add list=dpbr-CT address=103.146.72.0/23
 add list=dpbr-CT address=103.146.90.0/23
 add list=dpbr-CT address=103.146.124.0/22
 add list=dpbr-CT address=103.146.138.0/23
-add list=dpbr-CT address=103.146.230.0/23
 add list=dpbr-CT address=103.146.236.0/23
 add list=dpbr-CT address=103.146.252.0/23
 add list=dpbr-CT address=103.147.12.0/23
@@ -9899,7 +9898,6 @@ add list=CNIP address=103.146.90.0/23
 add list=CNIP address=103.146.124.0/23
 add list=CNIP address=103.146.126.0/23
 add list=CNIP address=103.146.138.0/23
-add list=CNIP address=103.146.230.0/23
 add list=CNIP address=103.146.236.0/23
 add list=CNIP address=103.146.252.0/23
 add list=CNIP address=103.147.12.0/23
@@ -14766,7 +14764,6 @@ add list=all_cn_ipv6 address=2001:df1:5fc0::/48
 add list=all_cn_ipv6 address=2001:df1:6180::/48
 add list=all_cn_ipv6 address=2001:df1:61c0::/48
 add list=all_cn_ipv6 address=2001:df1:a100::/48
-add list=all_cn_ipv6 address=2001:df1:c900::/48
 add list=all_cn_ipv6 address=2001:df1:d180::/48
 add list=all_cn_ipv6 address=2001:df1:da00::/48
 add list=all_cn_ipv6 address=2001:df1:f480::/48
@@ -15221,7 +15218,6 @@ add list=all_cn_ipv6 address=2401:7180::/32
 add list=all_cn_ipv6 address=2401:71c0::/32
 add list=all_cn_ipv6 address=2401:7240::/32
 add list=all_cn_ipv6 address=2401:7320::/32
-add list=all_cn_ipv6 address=2401:7340::/32
 add list=all_cn_ipv6 address=2401:7360::/32
 add list=all_cn_ipv6 address=2401:73a0::/32
 add list=all_cn_ipv6 address=2401:7580::/32
