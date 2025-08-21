@@ -56,6 +56,53 @@ done
 } > ../ros-pbr-CT-CMCC.rsc
 
 
+# {
+# echo "/ip firewall address-list"
+
+# for net in $(cat ct.txt) ; do
+#   echo "add list=dpbr-CT address=$net"
+# done
+
+# for net in $(cat cu.txt) ; do
+#   echo "add list=dpbr-CT address=$net"
+# done
+
+# for net in $(cat cm.txt) ; do
+#   echo "add list=dpbr-CMCC address=$net"
+# done
+
+# for net in $(cat crtc.txt) ; do
+#   echo "add list=dpbr-CMCC address=$net"
+# done
+
+# for net in $(cat cernet.txt) ; do
+#   echo "add list=dpbr-CT address=$net"
+# done
+
+# for net in $(cat gwbn.txt) ; do
+#   echo "add list=dpbr-CT address=$net"
+# done
+
+# for net in $(cat other.txt) ; do
+#   echo "add list=dpbr-CT address=$net"
+# done
+
+# for net in $(cat cn_ipv4.txt) ; do
+#   echo "add list=CNIP address=$net"
+# done
+
+# echo "/ipv6 firewall address-list"
+
+# for net in $(cat cmcc_ipv6.txt) ; do
+#   echo "add list=cmcc_ipv6 address=$net"
+# done
+
+# for net in $(cat cn_ipv6.txt) ; do
+#   echo "add list=all_cn_ipv6 address=$net"
+# done
+
+# } > ../ros-dpbr-CT-CMCC.rsc
+
 {
 echo "/ip firewall address-list"
 
@@ -63,28 +110,8 @@ for net in $(cat ct.txt) ; do
   echo "add list=dpbr-CT address=$net"
 done
 
-for net in $(cat cu.txt) ; do
-  echo "add list=dpbr-CT address=$net"
-done
-
 for net in $(cat cm.txt) ; do
   echo "add list=dpbr-CMCC address=$net"
-done
-
-for net in $(cat crtc.txt) ; do
-  echo "add list=dpbr-CMCC address=$net"
-done
-
-for net in $(cat cernet.txt) ; do
-  echo "add list=dpbr-CT address=$net"
-done
-
-for net in $(cat gwbn.txt) ; do
-  echo "add list=dpbr-CT address=$net"
-done
-
-for net in $(cat other.txt) ; do
-  echo "add list=dpbr-CT address=$net"
 done
 
 for net in $(cat cn_ipv4.txt) ; do
