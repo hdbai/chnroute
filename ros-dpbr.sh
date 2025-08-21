@@ -15,7 +15,7 @@ wget --no-check-certificate -c -O cernet.txt https://ispip.clang.cn/cernet_cidr.
 #长城宽带/鹏博士
 wget --no-check-certificate -c -O gwbn.txt https://ispip.clang.cn/gwbn_cidr.txt
 #其他
-wget --no-check-certificate -c -O other.txt https://ispip.clang.cn/othernet_cidr.txt
+wget --no-check-certificate -c -O other.txt https://ispip.clang.cn/other.txt
 #所有cn_ipv4
 wget --no-check-certificate -c -O cn_ipv4.txt https://ispip.clang.cn/all_cn.txt
 #所有cn_ipv6
