@@ -423,7 +423,6 @@ add list=dpbr-CT address=103.78.60.0/22
 add list=dpbr-CT address=103.78.126.0/23
 add list=dpbr-CT address=103.78.228.0/22
 add list=dpbr-CT address=103.79.200.0/22
-add list=dpbr-CT address=103.79.228.0/23
 add list=dpbr-CT address=103.81.48.0/22
 add list=dpbr-CT address=103.82.224.0/22
 add list=dpbr-CT address=103.83.44.0/22
@@ -447,7 +446,6 @@ add list=dpbr-CT address=103.98.220.0/22
 add list=dpbr-CT address=103.101.124.0/23
 add list=dpbr-CT address=103.101.180.0/22
 add list=dpbr-CT address=103.102.200.0/22
-add list=dpbr-CT address=103.103.200.0/22
 add list=dpbr-CT address=103.105.12.0/22
 add list=dpbr-CT address=103.105.60.0/22
 add list=dpbr-CT address=103.107.188.0/22
@@ -1303,6 +1301,7 @@ add list=dpbr-CT address=193.119.8.0/24
 add list=dpbr-CT address=193.119.10.0/23
 add list=dpbr-CT address=193.119.12.0/23
 add list=dpbr-CT address=193.119.15.0/24
+add list=dpbr-CT address=193.119.17.0/24
 add list=dpbr-CT address=193.119.19.0/24
 add list=dpbr-CT address=193.119.20.0/23
 add list=dpbr-CT address=193.119.25.0/24
@@ -3300,7 +3299,6 @@ add list=CNIP address=103.102.213.0/24
 add list=CNIP address=103.102.214.0/24
 add list=CNIP address=103.103.12.0/24
 add list=CNIP address=103.103.36.0/24
-add list=CNIP address=103.103.200.0/22
 add list=CNIP address=103.104.252.0/22
 add list=CNIP address=103.105.0.0/22
 add list=CNIP address=103.105.12.0/22
@@ -5144,6 +5142,7 @@ add list=CNIP address=161.207.0.0/16
 add list=CNIP address=162.14.0.0/16
 add list=CNIP address=162.105.0.0/16
 add list=CNIP address=162.141.4.0/24
+add list=CNIP address=162.141.138.0/24
 add list=CNIP address=163.0.0.0/16
 add list=CNIP address=163.47.4.0/22
 add list=CNIP address=163.53.44.0/22
@@ -5346,6 +5345,7 @@ add list=CNIP address=193.119.8.0/24
 add list=CNIP address=193.119.10.0/23
 add list=CNIP address=193.119.12.0/23
 add list=CNIP address=193.119.15.0/24
+add list=CNIP address=193.119.17.0/24
 add list=CNIP address=193.119.19.0/24
 add list=CNIP address=193.119.20.0/23
 add list=CNIP address=193.119.25.0/24
@@ -7918,6 +7918,8 @@ add list=all_cn_ipv6 address=2a14:67c1:b588::/47
 add list=all_cn_ipv6 address=2a14:67c1:b590::/48
 add list=all_cn_ipv6 address=2a14:67c1:b599::/48
 add list=all_cn_ipv6 address=2a14:67c5:1900::/40
+add list=all_cn_ipv6 address=2a14:7580:72f::/48
+add list=all_cn_ipv6 address=2a14:7580:750::/47
 add list=all_cn_ipv6 address=2a14:7580:9200::/40
 add list=all_cn_ipv6 address=2a14:7580:9400::/39
 add list=all_cn_ipv6 address=2a14:7580:9600::/46
