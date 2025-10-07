@@ -1202,7 +1202,7 @@ add list=dpbr-CT address=157.119.28.0/22
 add list=dpbr-CT address=157.119.172.0/22
 add list=dpbr-CT address=158.140.255.0/24
 add list=dpbr-CT address=160.19.208.0/22
-add list=dpbr-CT address=160.20.18.0/24
+add list=dpbr-CT address=160.20.18.0/23
 add list=dpbr-CT address=160.22.188.0/24
 add list=dpbr-CT address=160.22.244.0/23
 add list=dpbr-CT address=160.25.194.0/23
@@ -3175,8 +3175,7 @@ add list=CNIP address=103.47.80.0/22
 add list=CNIP address=103.48.232.0/22
 add list=CNIP address=103.49.12.0/22
 add list=CNIP address=103.49.108.0/22
-add list=CNIP address=103.49.196.0/24
-add list=CNIP address=103.49.198.0/23
+add list=CNIP address=103.49.196.0/22
 add list=CNIP address=103.51.62.0/23
 add list=CNIP address=103.52.100.0/22
 add list=CNIP address=103.52.104.0/23
@@ -4873,7 +4872,6 @@ add list=CNIP address=124.47.0.0/18
 add list=CNIP address=124.64.0.0/15
 add list=CNIP address=124.66.0.0/17
 add list=CNIP address=124.67.0.0/16
-add list=CNIP address=124.68.252.0/23
 add list=CNIP address=124.70.0.0/16
 add list=CNIP address=124.71.0.0/17
 add list=CNIP address=124.71.128.0/18
@@ -7952,7 +7950,7 @@ add list=all_cn_ipv6 address=2a14:67c1:b566::/48
 add list=all_cn_ipv6 address=2a14:67c1:b578::/48
 add list=all_cn_ipv6 address=2a14:67c1:b582::/48
 add list=all_cn_ipv6 address=2a14:67c1:b588::/47
-add list=all_cn_ipv6 address=2a14:67c1:b590::/48
+add list=all_cn_ipv6 address=2a14:67c1:b590::/47
 add list=all_cn_ipv6 address=2a14:67c1:b599::/48
 add list=all_cn_ipv6 address=2a14:67c5:1900::/40
 add list=all_cn_ipv6 address=2a14:7580:740::/44
@@ -7973,7 +7971,7 @@ add list=all_cn_ipv6 address=2a14:7580:fff7::/48
 add list=all_cn_ipv6 address=2a14:7580:fffa::/48
 add list=all_cn_ipv6 address=2a14:7581:b10::/48
 add list=all_cn_ipv6 address=2a14:7581:b12::/48
-add list=all_cn_ipv6 address=2a14:7581:b15::/48
+add list=all_cn_ipv6 address=2a14:7581:b14::/47
 add list=all_cn_ipv6 address=2a14:7581:b20::/46
 add list=all_cn_ipv6 address=2a14:7581:b32::/47
 add list=all_cn_ipv6 address=2a14:7581:b44::/48
