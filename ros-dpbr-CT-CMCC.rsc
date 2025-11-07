@@ -1579,7 +1579,6 @@ add list=dpbr-CT address=203.148.86.0/23
 add list=dpbr-CT address=203.156.192.0/18
 add list=dpbr-CT address=203.160.104.0/22
 add list=dpbr-CT address=203.160.109.0/24
-add list=dpbr-CT address=203.160.110.0/23
 add list=dpbr-CT address=203.160.129.0/24
 add list=dpbr-CT address=203.160.192.0/24
 add list=dpbr-CT address=203.160.196.0/24
@@ -4183,6 +4182,7 @@ add list=CNIP address=116.153.0.0/16
 add list=CNIP address=116.154.0.0/15
 add list=CNIP address=116.162.0.0/16
 add list=CNIP address=116.163.0.0/18
+add list=CNIP address=116.165.0.0/16
 add list=CNIP address=116.167.0.0/16
 add list=CNIP address=116.168.0.0/15
 add list=CNIP address=116.171.0.0/16
@@ -5379,6 +5379,7 @@ add list=CNIP address=193.119.22.0/24
 add list=CNIP address=193.119.25.0/24
 add list=CNIP address=193.119.28.0/24
 add list=CNIP address=193.119.30.0/24
+add list=CNIP address=193.233.49.0/24
 add list=CNIP address=194.15.39.0/24
 add list=CNIP address=194.127.229.0/24
 add list=CNIP address=194.138.202.0/23
@@ -5766,7 +5767,6 @@ add list=CNIP address=203.152.64.0/19
 add list=CNIP address=203.156.192.0/18
 add list=CNIP address=203.160.104.0/22
 add list=CNIP address=203.160.109.0/24
-add list=CNIP address=203.160.110.0/23
 add list=CNIP address=203.160.129.0/24
 add list=CNIP address=203.160.192.0/24
 add list=CNIP address=203.160.196.0/24
@@ -6589,7 +6589,7 @@ add list=all_cn_ipv6 address=2400:9380:9121::/48
 add list=all_cn_ipv6 address=2400:9380:9201::/48
 add list=all_cn_ipv6 address=2400:9380:9202::/48
 add list=all_cn_ipv6 address=2400:9380:9220::/47
-add list=all_cn_ipv6 address=2400:9380:9240::/47
+add list=all_cn_ipv6 address=2400:9380:9240::/48
 add list=all_cn_ipv6 address=2400:9380:9250::/47
 add list=all_cn_ipv6 address=2400:9380:9260::/48
 add list=all_cn_ipv6 address=2400:9380:9271::/48
@@ -7704,6 +7704,7 @@ add list=all_cn_ipv6 address=2602:f93b:400::/38
 add list=all_cn_ipv6 address=2602:f9ba:a8::/48
 add list=all_cn_ipv6 address=2602:f9ba:10c::/48
 add list=all_cn_ipv6 address=2602:fab0:11::/48
+add list=all_cn_ipv6 address=2602:fed2:7050::/44
 add list=all_cn_ipv6 address=2602:feda:1bf::/48
 add list=all_cn_ipv6 address=2602:feda:1d1::/48
 add list=all_cn_ipv6 address=2602:feda:1df::/48
