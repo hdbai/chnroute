@@ -678,6 +678,7 @@ add list=dpbr-CT address=110.76.156.0/22
 add list=dpbr-CT address=110.76.184.0/22
 add list=dpbr-CT address=110.80.0.0/13
 add list=dpbr-CT address=110.88.0.0/14
+add list=dpbr-CT address=110.94.0.0/17
 add list=dpbr-CT address=110.152.0.0/14
 add list=dpbr-CT address=110.156.0.0/15
 add list=dpbr-CT address=110.166.0.0/15
@@ -2666,7 +2667,6 @@ add list=dpbr-CU address=139.9.224.0/20
 add list=dpbr-CU address=139.9.240.0/21
 add list=dpbr-CU address=139.9.248.0/22
 add list=dpbr-CU address=139.159.96.0/21
-add list=dpbr-CU address=139.159.104.0/22
 add list=dpbr-CU address=139.159.108.0/23
 add list=dpbr-CU address=139.159.110.0/24
 add list=dpbr-CU address=139.159.112.0/23
