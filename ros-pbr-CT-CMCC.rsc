@@ -1152,7 +1152,7 @@ add dst-address=125.213.32.0/20 action=lookup table=CT
 add dst-address=125.254.128.0/19 action=lookup table=CT
 add dst-address=125.254.168.0/21 action=lookup table=CT
 add dst-address=125.254.176.0/21 action=lookup table=CT
-add dst-address=131.221.82.0/23 action=lookup table=CT
+add dst-address=131.221.82.0/24 action=lookup table=CT
 add dst-address=139.5.60.0/22 action=lookup table=CT
 add dst-address=139.9.144.0/20 action=lookup table=CT
 add dst-address=139.9.224.0/20 action=lookup table=CT
@@ -2671,7 +2671,6 @@ add dst-address=139.9.224.0/20 action=lookup table=CT
 add dst-address=139.9.240.0/21 action=lookup table=CT
 add dst-address=139.9.248.0/22 action=lookup table=CT
 add dst-address=139.159.96.0/21 action=lookup table=CT
-add dst-address=139.159.104.0/22 action=lookup table=CT
 add dst-address=139.159.108.0/23 action=lookup table=CT
 add dst-address=139.159.110.0/24 action=lookup table=CT
 add dst-address=139.159.112.0/23 action=lookup table=CT
@@ -3182,7 +3181,6 @@ add dst-address=43.255.228.0/22 action=lookup table=CMCC
 add dst-address=45.113.200.0/23 action=lookup table=CMCC
 add dst-address=45.113.202.0/24 action=lookup table=CMCC
 add dst-address=45.116.32.0/22 action=lookup table=CMCC
-add dst-address=45.116.140.0/22 action=lookup table=CMCC
 add dst-address=45.117.8.0/24 action=lookup table=CMCC
 add dst-address=45.117.10.0/23 action=lookup table=CMCC
 add dst-address=45.119.64.0/22 action=lookup table=CMCC
@@ -3560,7 +3558,6 @@ add dst-address=43.255.228.0/22 action=lookup table=CMCC
 add dst-address=45.113.200.0/23 action=lookup table=CMCC
 add dst-address=45.113.202.0/24 action=lookup table=CMCC
 add dst-address=45.116.32.0/22 action=lookup table=CMCC
-add dst-address=45.116.140.0/22 action=lookup table=CMCC
 add dst-address=45.117.8.0/24 action=lookup table=CMCC
 add dst-address=45.117.10.0/23 action=lookup table=CMCC
 add dst-address=45.119.64.0/22 action=lookup table=CMCC
