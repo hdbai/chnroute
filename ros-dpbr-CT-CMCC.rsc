@@ -2600,7 +2600,6 @@ add list=CNIP address=52.82.134.0/23
 add list=CNIP address=52.82.136.0/24
 add list=CNIP address=52.82.144.0/23
 add list=CNIP address=52.82.148.0/22
-add list=CNIP address=52.82.153.0/24
 add list=CNIP address=52.82.160.0/21
 add list=CNIP address=52.82.170.0/23
 add list=CNIP address=52.82.172.0/22
@@ -7625,8 +7624,8 @@ add list=all_cn_ipv6 address=2a0e:aa07:e210::/48
 add list=all_cn_ipv6 address=2a0e:aa07:e21c::/47
 add list=all_cn_ipv6 address=2a0e:aa07:e220::/44
 add list=all_cn_ipv6 address=2a0e:aa07:e280::/45
-add list=all_cn_ipv6 address=2a0e:aa07:e288::/46
-add list=all_cn_ipv6 address=2a0e:aa07:e28c::/47
+add list=all_cn_ipv6 address=2a0e:aa07:e288::/47
+add list=all_cn_ipv6 address=2a0e:aa07:e28a::/48
 add list=all_cn_ipv6 address=2a0e:aa07:e28e::/48
 add list=all_cn_ipv6 address=2a0e:aa07:f0d0::/46
 add list=all_cn_ipv6 address=2a0e:aa07:f0d4::/47
