@@ -3056,7 +3056,7 @@ add list=dpbr-CU address=220.200.160.0/19
 add list=dpbr-CU address=220.200.192.0/18
 add list=dpbr-CU address=220.201.0.0/16
 add list=dpbr-CU address=220.202.0.0/16
-add list=dpbr-CU address=220.203.0.0/18
+add list=dpbr-CU address=220.203.0.0/17
 add list=dpbr-CU address=220.203.128.0/18
 add list=dpbr-CU address=220.203.216.0/23
 add list=dpbr-CU address=220.203.220.0/22

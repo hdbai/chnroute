@@ -3056,7 +3056,7 @@ add dst-address=220.200.160.0/19 action=lookup table=CT
 add dst-address=220.200.192.0/18 action=lookup table=CT
 add dst-address=220.201.0.0/16 action=lookup table=CT
 add dst-address=220.202.0.0/16 action=lookup table=CT
-add dst-address=220.203.0.0/18 action=lookup table=CT
+add dst-address=220.203.0.0/17 action=lookup table=CT
 add dst-address=220.203.128.0/18 action=lookup table=CT
 add dst-address=220.203.216.0/23 action=lookup table=CT
 add dst-address=220.203.220.0/22 action=lookup table=CT
