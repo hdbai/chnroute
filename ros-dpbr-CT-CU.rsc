@@ -246,6 +246,7 @@ add list=dpbr-CT address=101.36.64.0/20
 add list=dpbr-CT address=101.36.128.0/17
 add list=dpbr-CT address=101.39.0.0/16
 add list=dpbr-CT address=101.40.0.0/16
+add list=dpbr-CT address=101.49.148.0/23
 add list=dpbr-CT address=101.50.8.0/21
 add list=dpbr-CT address=101.50.56.0/22
 add list=dpbr-CT address=101.52.204.0/22
