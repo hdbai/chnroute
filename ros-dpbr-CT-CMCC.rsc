@@ -1002,8 +1002,7 @@ add list=dpbr-CT address=120.132.120.0/21
 add list=dpbr-CT address=120.132.128.0/17
 add list=dpbr-CT address=120.133.0.0/16
 add list=dpbr-CT address=120.134.0.0/15
-add list=dpbr-CT address=120.136.16.0/23
-add list=dpbr-CT address=120.136.18.0/24
+add list=dpbr-CT address=120.136.16.0/22
 add list=dpbr-CT address=120.136.20.0/23
 add list=dpbr-CT address=120.136.23.0/24
 add list=dpbr-CT address=120.136.156.0/22
@@ -4441,9 +4440,7 @@ add list=CNIP address=120.132.120.0/21
 add list=CNIP address=120.132.128.0/17
 add list=CNIP address=120.133.0.0/16
 add list=CNIP address=120.134.0.0/15
-add list=CNIP address=120.136.16.0/23
-add list=CNIP address=120.136.18.0/24
-add list=CNIP address=120.136.20.0/22
+add list=CNIP address=120.136.16.0/21
 add list=CNIP address=120.136.128.0/21
 add list=CNIP address=120.136.140.0/22
 add list=CNIP address=120.136.144.0/20
@@ -7889,8 +7886,7 @@ add list=all_cn_ipv6 address=2a14:7583:f70c::/48
 add list=all_cn_ipv6 address=2a14:7583:f743::/48
 add list=all_cn_ipv6 address=2a14:7583:f744::/48
 add list=all_cn_ipv6 address=2a14:7583:f764::/48
-add list=all_cn_ipv6 address=2a14:7586:6101::/48
-add list=all_cn_ipv6 address=2a14:7586:6102::/47
+add list=all_cn_ipv6 address=2a14:7586:6100::/46
 add list=all_cn_ipv6 address=2a14:7586:6104::/48
 add list=all_cn_ipv6 address=2a14:7586:6107::/48
 add list=all_cn_ipv6 address=2a14:7586:6110::/48
