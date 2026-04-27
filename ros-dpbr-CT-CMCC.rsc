@@ -1785,6 +1785,9 @@ add list=dpbr-CMCC address=42.62.0.0/17
 add list=dpbr-CMCC address=42.157.192.0/21
 add list=dpbr-CMCC address=43.228.116.0/22
 add list=dpbr-CMCC address=43.231.32.0/22
+add list=dpbr-CMCC address=43.231.96.0/23
+add list=dpbr-CMCC address=43.231.98.0/24
+add list=dpbr-CMCC address=43.231.103.0/24
 add list=dpbr-CMCC address=43.239.172.0/24
 add list=dpbr-CMCC address=43.240.72.0/23
 add list=dpbr-CMCC address=43.241.49.0/24
@@ -5132,7 +5135,6 @@ add list=CNIP address=171.104.0.0/13
 add list=CNIP address=171.112.0.0/12
 add list=CNIP address=171.208.0.0/12
 add list=CNIP address=172.81.192.0/18
-add list=CNIP address=174.136.239.0/24
 add list=CNIP address=175.0.0.0/12
 add list=CNIP address=175.16.0.0/13
 add list=CNIP address=175.24.0.0/15
@@ -6560,6 +6562,7 @@ add list=all_cn_ipv6 address=2401:d780::/32
 add list=all_cn_ipv6 address=2401:d920::/48
 add list=all_cn_ipv6 address=2401:de00::/32
 add list=all_cn_ipv6 address=2401:ec00::/32
+add list=all_cn_ipv6 address=2401:f860:85::/48
 add list=all_cn_ipv6 address=2401:f860:87::/48
 add list=all_cn_ipv6 address=2401:f860:88::/47
 add list=all_cn_ipv6 address=2401:f860:90::/46
@@ -6597,7 +6600,6 @@ add list=all_cn_ipv6 address=2402:4440:a800::/46
 add list=all_cn_ipv6 address=2402:4440:a810::/46
 add list=all_cn_ipv6 address=2402:4b80::/32
 add list=all_cn_ipv6 address=2402:4e00::/32
-add list=all_cn_ipv6 address=2402:5e40::/32
 add list=all_cn_ipv6 address=2402:5ec0::/32
 add list=all_cn_ipv6 address=2402:6e80::/32
 add list=all_cn_ipv6 address=2402:6f40::/48
@@ -6895,11 +6897,12 @@ add list=all_cn_ipv6 address=2406:840:480::/48
 add list=all_cn_ipv6 address=2406:840:540::/48
 add list=all_cn_ipv6 address=2406:840:600::/48
 add list=all_cn_ipv6 address=2406:840:680::/48
+add list=all_cn_ipv6 address=2406:840:6c1::/48
 add list=all_cn_ipv6 address=2406:840:710::/48
 add list=all_cn_ipv6 address=2406:840:800::/46
 add list=all_cn_ipv6 address=2406:840:805::/48
 add list=all_cn_ipv6 address=2406:840:806::/48
-add list=all_cn_ipv6 address=2406:840:840::/48
+add list=all_cn_ipv6 address=2406:840:840::/47
 add list=all_cn_ipv6 address=2406:840:842::/48
 add list=all_cn_ipv6 address=2406:840:860::/48
 add list=all_cn_ipv6 address=2406:840:880::/47
@@ -6938,7 +6941,6 @@ add list=all_cn_ipv6 address=2406:840:9966::/48
 add list=all_cn_ipv6 address=2406:840:996c::/48
 add list=all_cn_ipv6 address=2406:840:9970::/44
 add list=all_cn_ipv6 address=2406:840:e072::/48
-add list=all_cn_ipv6 address=2406:840:e080::/44
 add list=all_cn_ipv6 address=2406:840:e0cf::/48
 add list=all_cn_ipv6 address=2406:840:e10f::/48
 add list=all_cn_ipv6 address=2406:840:e14f::/48
@@ -6990,7 +6992,7 @@ add list=all_cn_ipv6 address=2406:840:fd87::/48
 add list=all_cn_ipv6 address=2406:840:fd90::/44
 add list=all_cn_ipv6 address=2406:840:fda0::/43
 add list=all_cn_ipv6 address=2406:840:fdc0::/44
-add list=all_cn_ipv6 address=2406:840:fe50::/47
+add list=all_cn_ipv6 address=2406:840:fe51::/48
 add list=all_cn_ipv6 address=2406:840:fe73::/48
 add list=all_cn_ipv6 address=2406:840:fe90::/46
 add list=all_cn_ipv6 address=2406:840:fe94::/48
@@ -7719,14 +7721,15 @@ add list=all_cn_ipv6 address=240c:4000::/22
 add list=all_cn_ipv6 address=240c:c000::/20
 add list=all_cn_ipv6 address=240d:4000::/21
 add list=all_cn_ipv6 address=240e::/20
+add list=all_cn_ipv6 address=2602:f46d:6::/48
 add list=all_cn_ipv6 address=2602:f92a:a46d::/48
-add list=all_cn_ipv6 address=2602:f92a:a46f::/48
 add list=all_cn_ipv6 address=2602:f92a:a474::/48
 add list=all_cn_ipv6 address=2602:f9ba:a8::/48
 add list=all_cn_ipv6 address=2602:f9ba:10c::/48
 add list=all_cn_ipv6 address=2602:f9f6::/48
 add list=all_cn_ipv6 address=2602:f9f6:400::/47
 add list=all_cn_ipv6 address=2602:f9f6:450::/48
+add list=all_cn_ipv6 address=2602:fbda:600::/48
 add list=all_cn_ipv6 address=2602:fbda:610::/48
 add list=all_cn_ipv6 address=2602:fbda:620::/48
 add list=all_cn_ipv6 address=2602:fbda:660::/44
@@ -7809,7 +7812,6 @@ add list=all_cn_ipv6 address=2a0f:1cc5:130::/44
 add list=all_cn_ipv6 address=2a0f:1cc5:140::/43
 add list=all_cn_ipv6 address=2a0f:1cc5:600::/47
 add list=all_cn_ipv6 address=2a0f:1cc5:603::/48
-add list=all_cn_ipv6 address=2a0f:1cc5:645::/48
 add list=all_cn_ipv6 address=2a0f:1cc5:661::/48
 add list=all_cn_ipv6 address=2a0f:1cc5:662::/48
 add list=all_cn_ipv6 address=2a0f:1cc5:690::/48
@@ -7858,8 +7860,7 @@ add list=all_cn_ipv6 address=2a13:8c87::/32
 add list=all_cn_ipv6 address=2a13:a5c3:ff50::/44
 add list=all_cn_ipv6 address=2a13:a5c5::/48
 add list=all_cn_ipv6 address=2a13:aac4:f000::/44
-add list=all_cn_ipv6 address=2a13:b487:1210::/44
-add list=all_cn_ipv6 address=2a13:b487:1220::/43
+add list=all_cn_ipv6 address=2a13:b487:1200::/42
 add list=all_cn_ipv6 address=2a14:67c1:b500::/47
 add list=all_cn_ipv6 address=2a14:67c1:b511::/48
 add list=all_cn_ipv6 address=2a14:67c1:b514::/48
@@ -7867,7 +7868,7 @@ add list=all_cn_ipv6 address=2a14:67c1:b530::/44
 add list=all_cn_ipv6 address=2a14:67c1:b561::/48
 add list=all_cn_ipv6 address=2a14:67c1:b563::/48
 add list=all_cn_ipv6 address=2a14:67c1:b578::/48
-add list=all_cn_ipv6 address=2a14:67c1:b586::/47
+add list=all_cn_ipv6 address=2a14:67c1:b586::/48
 add list=all_cn_ipv6 address=2a14:67c1:b588::/47
 add list=all_cn_ipv6 address=2a14:67c1:b590::/48
 add list=all_cn_ipv6 address=2a14:67c1:b599::/48
@@ -7882,7 +7883,6 @@ add list=all_cn_ipv6 address=2a14:7580:d41::/48
 add list=all_cn_ipv6 address=2a14:7580:d42::/47
 add list=all_cn_ipv6 address=2a14:7580:dff::/48
 add list=all_cn_ipv6 address=2a14:7580:fffa::/48
-add list=all_cn_ipv6 address=2a14:7581:3814::/48
 add list=all_cn_ipv6 address=2a14:7581:3818::/47
 add list=all_cn_ipv6 address=2a14:7581:381b::/48
 add list=all_cn_ipv6 address=2a14:7583:f411::/48
