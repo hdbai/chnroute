@@ -380,7 +380,6 @@ add list=dpbr-CT address=103.47.80.0/22
 add list=dpbr-CT address=103.48.232.0/23
 add list=dpbr-CT address=103.48.235.0/24
 add list=dpbr-CT address=103.52.100.0/22
-add list=dpbr-CT address=103.52.104.0/23
 add list=dpbr-CT address=103.52.172.0/22
 add list=dpbr-CT address=103.52.176.0/22
 add list=dpbr-CT address=103.53.124.0/22
@@ -478,7 +477,6 @@ add list=dpbr-CT address=103.158.0.0/23
 add list=dpbr-CT address=103.159.124.0/23
 add list=dpbr-CT address=103.161.220.0/23
 add list=dpbr-CT address=103.163.46.0/23
-add list=dpbr-CT address=103.164.33.0/24
 add list=dpbr-CT address=103.169.50.0/23
 add list=dpbr-CT address=103.170.4.0/23
 add list=dpbr-CT address=103.181.234.0/24
@@ -3900,7 +3898,8 @@ add list=dpbr-CT address=124.202.128.0/19
 add list=dpbr-CT address=210.74.0.0/22
 add list=dpbr-CT address=210.79.224.0/19
 add list=dpbr-CT address=211.147.4.0/22
-add list=dpbr-CT address=211.154.160.0/20
+add list=dpbr-CT address=211.154.160.0/22
+add list=dpbr-CT address=211.154.168.0/21
 add list=dpbr-CT address=211.155.128.0/19
 add list=dpbr-CT address=211.161.97.0/24
 add list=dpbr-CT address=211.161.101.0/24
