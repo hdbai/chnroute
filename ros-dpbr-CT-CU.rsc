@@ -1099,7 +1099,6 @@ add list=dpbr-CT address=124.112.0.0/13
 add list=dpbr-CT address=124.126.0.0/15
 add list=dpbr-CT address=124.172.0.0/15
 add list=dpbr-CT address=124.193.0.0/16
-add list=dpbr-CT address=124.202.128.0/19
 add list=dpbr-CT address=124.203.176.0/20
 add list=dpbr-CT address=124.206.0.0/16
 add list=dpbr-CT address=124.224.0.0/12
