@@ -5013,6 +5013,7 @@ add list=CNIP address=160.202.152.0/22
 add list=CNIP address=160.202.212.0/22
 add list=CNIP address=160.202.224.0/19
 add list=CNIP address=160.250.14.0/23
+add list=CNIP address=160.250.24.0/23
 add list=CNIP address=160.250.84.0/23
 add list=CNIP address=160.250.102.0/23
 add list=CNIP address=161.163.0.0/21
@@ -7975,7 +7976,6 @@ add list=all_cn_ipv6 address=2a14:7586:6107::/48
 add list=all_cn_ipv6 address=2a14:7586:6110::/48
 add list=all_cn_ipv6 address=2a14:7586:6300::/44
 add list=all_cn_ipv6 address=2a14:7dc0:506::/48
-add list=all_cn_ipv6 address=2a14:ae00:50::/44
 add list=all_cn_ipv6 address=2a14:c380:21::/48
 add list=all_cn_ipv6 address=2c0f:f7a8:8011::/48
 add list=all_cn_ipv6 address=2c0f:f7a8:8050::/48
