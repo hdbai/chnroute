@@ -1065,6 +1065,7 @@ add list=dpbr-CT address=122.240.0.0/13
 add list=dpbr-CT address=122.248.48.0/21
 add list=dpbr-CT address=122.248.56.0/22
 add list=dpbr-CT address=123.49.192.0/23
+add list=dpbr-CT address=123.49.245.0/24
 add list=dpbr-CT address=123.52.0.0/14
 add list=dpbr-CT address=123.58.0.0/19
 add list=dpbr-CT address=123.58.224.0/19
@@ -4686,6 +4687,7 @@ add list=CNIP address=123.49.231.0/24
 add list=CNIP address=123.49.232.0/24
 add list=CNIP address=123.49.240.0/24
 add list=CNIP address=123.49.242.0/23
+add list=CNIP address=123.49.245.0/24
 add list=CNIP address=123.52.0.0/14
 add list=CNIP address=123.56.0.0/15
 add list=CNIP address=123.58.0.0/19
@@ -4997,14 +4999,14 @@ add list=CNIP address=155.102.44.0/22
 add list=CNIP address=155.102.48.0/20
 add list=CNIP address=155.102.64.0/23
 add list=CNIP address=155.102.67.0/24
-add list=CNIP address=155.102.68.0/23
-add list=CNIP address=155.102.70.0/24
+add list=CNIP address=155.102.68.0/22
 add list=CNIP address=155.102.72.0/21
-add list=CNIP address=155.102.86.0/24
-add list=CNIP address=155.102.91.0/24
-add list=CNIP address=155.102.92.0/24
+add list=CNIP address=155.102.88.0/21
 add list=CNIP address=155.102.98.0/23
 add list=CNIP address=155.102.100.0/23
+add list=CNIP address=155.102.104.0/24
+add list=CNIP address=155.102.106.0/23
+add list=CNIP address=155.102.108.0/24
 add list=CNIP address=155.102.110.0/23
 add list=CNIP address=155.102.112.0/21
 add list=CNIP address=155.102.120.0/23
@@ -5029,10 +5031,7 @@ add list=CNIP address=155.102.200.0/23
 add list=CNIP address=155.102.202.0/24
 add list=CNIP address=155.102.205.0/24
 add list=CNIP address=155.102.206.0/23
-add list=CNIP address=155.102.208.0/21
-add list=CNIP address=155.102.216.0/22
-add list=CNIP address=155.102.220.0/23
-add list=CNIP address=155.102.223.0/24
+add list=CNIP address=155.102.208.0/20
 add list=CNIP address=155.102.224.0/19
 add list=CNIP address=155.126.176.0/23
 add list=CNIP address=156.59.108.0/24
@@ -5181,6 +5180,7 @@ add list=CNIP address=163.227.40.0/23
 add list=CNIP address=163.228.0.0/16
 add list=CNIP address=163.244.246.0/24
 add list=CNIP address=164.37.202.0/23
+add list=CNIP address=164.163.236.0/22
 add list=CNIP address=165.101.70.0/23
 add list=CNIP address=165.101.208.0/23
 add list=CNIP address=166.111.0.0/16
@@ -5722,6 +5722,7 @@ add list=CNIP address=203.95.0.0/23
 add list=CNIP address=203.95.2.0/24
 add list=CNIP address=203.95.4.0/22
 add list=CNIP address=203.95.128.0/23
+add list=CNIP address=203.99.18.0/24
 add list=CNIP address=203.99.20.0/22
 add list=CNIP address=203.99.24.0/21
 add list=CNIP address=203.100.60.0/24
@@ -6604,7 +6605,6 @@ add list=all_cn_ipv6 address=2400:cb80:e30::/44
 add list=all_cn_ipv6 address=2400:cb80:e40::/44
 add list=all_cn_ipv6 address=2400:da00::/32
 add list=all_cn_ipv6 address=2400:dd00::/28
-add list=all_cn_ipv6 address=2400:e3e0:aa00::/39
 add list=all_cn_ipv6 address=2400:e680::/32
 add list=all_cn_ipv6 address=2400:ee00::/32
 add list=all_cn_ipv6 address=2400:f6e0::/32
@@ -6729,6 +6729,7 @@ add list=all_cn_ipv6 address=2402:5ec0::/32
 add list=all_cn_ipv6 address=2402:6e80::/32
 add list=all_cn_ipv6 address=2402:6f40::/48
 add list=all_cn_ipv6 address=2402:6f40:2::/47
+add list=all_cn_ipv6 address=2402:6fc0::/48
 add list=all_cn_ipv6 address=2402:7040::/32
 add list=all_cn_ipv6 address=2402:7d80::/48
 add list=all_cn_ipv6 address=2402:7d80:240::/48
@@ -7081,7 +7082,6 @@ add list=all_cn_ipv6 address=2406:840:e080::/44
 add list=all_cn_ipv6 address=2406:840:e0cf::/48
 add list=all_cn_ipv6 address=2406:840:e0e0::/46
 add list=all_cn_ipv6 address=2406:840:e0e4::/47
-add list=all_cn_ipv6 address=2406:840:e0e8::/48
 add list=all_cn_ipv6 address=2406:840:e10f::/48
 add list=all_cn_ipv6 address=2406:840:e14f::/48
 add list=all_cn_ipv6 address=2406:840:e280::/44
@@ -7090,7 +7090,6 @@ add list=all_cn_ipv6 address=2406:840:e302::/47
 add list=all_cn_ipv6 address=2406:840:e304::/48
 add list=all_cn_ipv6 address=2406:840:e306::/48
 add list=all_cn_ipv6 address=2406:840:e330::/44
-add list=all_cn_ipv6 address=2406:840:e57e::/48
 add list=all_cn_ipv6 address=2406:840:e600::/44
 add list=all_cn_ipv6 address=2406:840:e620::/47
 add list=all_cn_ipv6 address=2406:840:e80f::/48
@@ -7160,7 +7159,6 @@ add list=all_cn_ipv6 address=2406:840:fece::/47
 add list=all_cn_ipv6 address=2406:840:fed1::/48
 add list=all_cn_ipv6 address=2406:840:fed3::/48
 add list=all_cn_ipv6 address=2406:840:fed4::/48
-add list=all_cn_ipv6 address=2406:840:fed7::/48
 add list=all_cn_ipv6 address=2406:840:fed8::/48
 add list=all_cn_ipv6 address=2406:840:fedb::/48
 add list=all_cn_ipv6 address=2406:840:fedc::/47
@@ -8062,7 +8060,10 @@ add list=all_cn_ipv6 address=2a0f:1cc6:b210::/47
 add list=all_cn_ipv6 address=2a0f:1cc6:b212::/48
 add list=all_cn_ipv6 address=2a0f:2706::/32
 add list=all_cn_ipv6 address=2a0f:6280:1400::/44
+add list=all_cn_ipv6 address=2a0f:6280:1430::/44
+add list=all_cn_ipv6 address=2a0f:6280:1440::/44
 add list=all_cn_ipv6 address=2a0f:6280:1460::/44
+add list=all_cn_ipv6 address=2a0f:6280:1480::/44
 add list=all_cn_ipv6 address=2a0f:6284:4c00::/43
 add list=all_cn_ipv6 address=2a0f:6284:4c20::/44
 add list=all_cn_ipv6 address=2a0f:6284:4c30::/48
@@ -8202,7 +8203,6 @@ add list=all_cn_ipv6 address=2a14:7dc0:506::/48
 add list=all_cn_ipv6 address=2a14:7dc0:520::/48
 add list=all_cn_ipv6 address=2a14:7dc0:52f::/48
 add list=all_cn_ipv6 address=2a14:ae00:50::/44
-add list=all_cn_ipv6 address=2a14:c380:21::/48
 add list=all_cn_ipv6 address=2c0f:f7a8:8011::/48
 add list=all_cn_ipv6 address=2c0f:f7a8:8050::/48
 add list=all_cn_ipv6 address=2c0f:f7a8:805f::/48
