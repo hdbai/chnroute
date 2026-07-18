@@ -985,6 +985,7 @@ add dst-address=120.31.144.0/24 action=lookup table=CT
 add dst-address=120.32.0.0/13 action=lookup table=CT
 add dst-address=120.40.0.0/14 action=lookup table=CT
 add dst-address=120.44.0.0/16 action=lookup table=CT
+add dst-address=120.49.192.0/22 action=lookup table=CT
 add dst-address=120.49.200.0/21 action=lookup table=CT
 add dst-address=120.49.208.0/21 action=lookup table=CT
 add dst-address=120.68.0.0/14 action=lookup table=CT
