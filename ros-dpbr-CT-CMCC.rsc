@@ -6458,6 +6458,7 @@ add list=all_cn_ipv6 address=2001:daa:9::/48
 add list=all_cn_ipv6 address=2001:dc7::/32
 add list=all_cn_ipv6 address=2001:dd8:1::/48
 add list=all_cn_ipv6 address=2001:dd9::/48
+add list=all_cn_ipv6 address=2001:df3:d0c0::/48
 add list=all_cn_ipv6 address=2001:df6:40::/48
 add list=all_cn_ipv6 address=2001:4510:400::/40
 add list=all_cn_ipv6 address=2001:4510:1480::/41
