@@ -1561,7 +1561,7 @@ add dst-address=203.195.118.0/23 action=lookup table=CT
 add dst-address=203.196.0.0/21 action=lookup table=CT
 add dst-address=203.202.236.0/23 action=lookup table=CT
 add dst-address=203.205.88.0/22 action=lookup table=CT
-add dst-address=203.205.92.0/24 action=lookup table=CT
+add dst-address=203.205.92.0/23 action=lookup table=CT
 add dst-address=203.205.95.0/24 action=lookup table=CT
 add dst-address=203.207.200.0/22 action=lookup table=CT
 add dst-address=203.212.80.0/23 action=lookup table=CT
