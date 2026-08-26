@@ -2366,8 +2366,7 @@ add list=dpbr-CU address=116.163.0.0/18
 add list=dpbr-CU address=116.165.0.0/16
 add list=dpbr-CU address=116.167.0.0/16
 add list=dpbr-CU address=116.168.0.0/14
-add list=dpbr-CU address=116.172.64.0/18
-add list=dpbr-CU address=116.172.128.0/17
+add list=dpbr-CU address=116.172.0.0/16
 add list=dpbr-CU address=116.174.0.0/15
 add list=dpbr-CU address=116.176.0.0/14
 add list=dpbr-CU address=116.181.0.0/16
