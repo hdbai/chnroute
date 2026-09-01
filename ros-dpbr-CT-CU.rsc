@@ -2805,6 +2805,7 @@ add list=dpbr-CU address=203.207.208.0/20
 add list=dpbr-CU address=203.207.224.0/19
 add list=dpbr-CU address=203.212.0.0/21
 add list=dpbr-CU address=203.212.8.0/22
+add list=dpbr-CU address=206.109.70.0/23
 add list=dpbr-CU address=210.2.1.0/24
 add list=dpbr-CU address=210.5.128.0/20
 add list=dpbr-CU address=210.12.0.0/16
@@ -2841,6 +2842,8 @@ add list=dpbr-CU address=210.75.96.0/19
 add list=dpbr-CU address=210.76.32.0/19
 add list=dpbr-CU address=210.77.32.0/19
 add list=dpbr-CU address=210.77.180.0/23
+add list=dpbr-CU address=210.77.184.0/24
+add list=dpbr-CU address=210.77.190.0/24
 add list=dpbr-CU address=210.77.192.0/18
 add list=dpbr-CU address=210.79.224.0/19
 add list=dpbr-CU address=210.82.0.0/15
