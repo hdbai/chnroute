@@ -735,6 +735,7 @@ add list=dpbr-CT address=114.112.32.0/19
 add list=dpbr-CT address=114.112.64.0/19
 add list=dpbr-CT address=114.112.96.0/21
 add list=dpbr-CT address=114.112.104.0/22
+add list=dpbr-CT address=114.113.66.0/24
 add list=dpbr-CT address=114.113.88.0/21
 add list=dpbr-CT address=114.113.96.0/20
 add list=dpbr-CT address=114.113.112.0/22
