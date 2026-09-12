@@ -29,7 +29,7 @@ wget --no-check-certificate -c -O cernet.txt https://ispip.clang.cn/cernet_cidr.
 wget --no-check-certificate -c -O gwbn.txt https://ispip.clang.cn/gwbn_cidr.txt
 
 # 其他 IPv4
-wget --no-check-certificate -c -O other.txt https://ispip.clang.cn/other.txt
+wget --no-check-certificate -c -O other.txt https://ispip.clang.cn/othernet.txt
 
 # 所有中国 IPv4
 wget --no-check-certificate -c -O cn_ipv4.txt https://ispip.clang.cn/all_cn.txt
