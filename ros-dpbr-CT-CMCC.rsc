@@ -1072,7 +1072,6 @@ add list=dpbr-CT address=122.240.0.0/13
 add list=dpbr-CT address=122.248.48.0/21
 add list=dpbr-CT address=122.248.56.0/22
 add list=dpbr-CT address=123.49.192.0/23
-add list=dpbr-CT address=123.49.245.0/24
 add list=dpbr-CT address=123.52.0.0/14
 add list=dpbr-CT address=123.58.0.0/19
 add list=dpbr-CT address=123.58.224.0/19
@@ -1317,6 +1316,7 @@ add list=dpbr-CT address=198.208.112.0/23
 add list=dpbr-CT address=199.244.144.0/24
 add list=dpbr-CT address=202.38.132.0/23
 add list=dpbr-CT address=202.38.134.0/24
+add list=dpbr-CT address=202.41.243.0/24
 add list=dpbr-CT address=202.46.224.0/22
 add list=dpbr-CT address=202.47.104.0/21
 add list=dpbr-CT address=202.55.0.0/19
@@ -1898,7 +1898,7 @@ add list=dpbr-CMCC address=103.216.152.0/22
 add list=dpbr-CMCC address=103.219.24.0/21
 add list=dpbr-CMCC address=103.219.32.0/21
 add list=dpbr-CMCC address=103.220.60.0/22
-add list=dpbr-CMCC address=103.229.212.0/22
+add list=dpbr-CMCC address=103.229.214.0/23
 add list=dpbr-CMCC address=103.230.236.0/23
 add list=dpbr-CMCC address=103.232.166.0/23
 add list=dpbr-CMCC address=103.233.52.0/22
@@ -4682,7 +4682,6 @@ add list=CNIP address=123.49.231.0/24
 add list=CNIP address=123.49.232.0/24
 add list=CNIP address=123.49.240.0/24
 add list=CNIP address=123.49.242.0/23
-add list=CNIP address=123.49.245.0/24
 add list=CNIP address=123.52.0.0/14
 add list=CNIP address=123.56.0.0/15
 add list=CNIP address=123.58.0.0/19
@@ -7038,10 +7037,7 @@ add list=all_cn_ipv6 address=2404:2280:25c::/48
 add list=all_cn_ipv6 address=2404:2280:265::/48
 add list=all_cn_ipv6 address=2404:2280:266::/47
 add list=all_cn_ipv6 address=2404:2280:268::/45
-add list=all_cn_ipv6 address=2404:2280:270::/45
-add list=all_cn_ipv6 address=2404:2280:278::/47
-add list=all_cn_ipv6 address=2404:2280:27b::/48
-add list=all_cn_ipv6 address=2404:2280:27c::/46
+add list=all_cn_ipv6 address=2404:2280:270::/44
 add list=all_cn_ipv6 address=2404:2280:282::/47
 add list=all_cn_ipv6 address=2404:2280:284::/47
 add list=all_cn_ipv6 address=2404:2280:288::/46
