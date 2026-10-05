@@ -8270,6 +8270,7 @@ add list=all_cn_ipv6 address=2a14:7586:6104::/48
 add list=all_cn_ipv6 address=2a14:7586:6106::/47
 add list=all_cn_ipv6 address=2a14:7586:6108::/48
 add list=all_cn_ipv6 address=2a14:7586:6110::/48
+add list=all_cn_ipv6 address=2a14:7586:6113::/48
 add list=all_cn_ipv6 address=2a14:7586:6115::/48
 add list=all_cn_ipv6 address=2a14:7586:6300::/44
 add list=all_cn_ipv6 address=2c0f:f7a8:8011::/48
