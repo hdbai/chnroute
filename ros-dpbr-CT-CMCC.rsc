@@ -5389,7 +5389,7 @@ add list=CNIP address=198.208.61.0/24
 add list=CNIP address=198.208.63.0/24
 add list=CNIP address=198.208.67.0/24
 add list=CNIP address=198.208.112.0/23
-add list=CNIP address=199.19.21.0/24
+add list=CNIP address=199.19.20.0/23
 add list=CNIP address=199.19.22.0/24
 add list=CNIP address=199.182.239.0/24
 add list=CNIP address=199.244.144.0/24
@@ -5699,7 +5699,7 @@ add list=CNIP address=203.93.64.0/19
 add list=CNIP address=203.93.96.0/20
 add list=CNIP address=203.93.117.0/24
 add list=CNIP address=203.93.120.0/21
-add list=CNIP address=203.93.144.0/20
+add list=CNIP address=203.93.128.0/19
 add list=CNIP address=203.93.160.0/20
 add list=CNIP address=203.93.208.0/20
 add list=CNIP address=203.93.224.0/19
@@ -8043,6 +8043,7 @@ add list=all_cn_ipv6 address=2602:f92a:1305::/48
 add list=all_cn_ipv6 address=2602:f92a:1306::/48
 add list=all_cn_ipv6 address=2602:f92a:1310::/48
 add list=all_cn_ipv6 address=2602:f92a:1312::/48
+add list=all_cn_ipv6 address=2602:f92a:1320::/48
 add list=all_cn_ipv6 address=2602:f92a:a460::/48
 add list=all_cn_ipv6 address=2602:f92a:a462::/47
 add list=all_cn_ipv6 address=2602:f92a:a468::/48
