@@ -2346,7 +2346,6 @@ add list=CNIP address=43.109.68.0/23
 add list=CNIP address=43.109.70.0/24
 add list=CNIP address=43.109.72.0/23
 add list=CNIP address=43.109.76.0/22
-add list=CNIP address=43.109.80.0/24
 add list=CNIP address=43.109.83.0/24
 add list=CNIP address=43.109.84.0/22
 add list=CNIP address=43.109.88.0/22
@@ -2923,6 +2922,7 @@ add list=CNIP address=79.133.176.0/24
 add list=CNIP address=79.175.67.0/24
 add list=CNIP address=79.175.118.0/24
 add list=CNIP address=79.180.180.0/24
+add list=CNIP address=79.182.118.0/24
 add list=CNIP address=81.68.0.0/14
 add list=CNIP address=81.173.18.0/23
 add list=CNIP address=81.173.20.0/22
@@ -8029,7 +8029,20 @@ add list=all_cn_ipv6 address=240a:42e0::/28
 add list=all_cn_ipv6 address=240a:42f0::/29
 add list=all_cn_ipv6 address=240a:42f8::/30
 add list=all_cn_ipv6 address=240a:6001::/48
-add list=all_cn_ipv6 address=240a:a000::/20
+add list=all_cn_ipv6 address=240a:a000::/29
+add list=all_cn_ipv6 address=240a:a008::/30
+add list=all_cn_ipv6 address=240a:a00c::/31
+add list=all_cn_ipv6 address=240a:a00e::/48
+add list=all_cn_ipv6 address=240a:a00e:100::/40
+add list=all_cn_ipv6 address=240a:a00f::/32
+add list=all_cn_ipv6 address=240a:a010::/28
+add list=all_cn_ipv6 address=240a:a020::/27
+add list=all_cn_ipv6 address=240a:a040::/26
+add list=all_cn_ipv6 address=240a:a080::/25
+add list=all_cn_ipv6 address=240a:a100::/24
+add list=all_cn_ipv6 address=240a:a200::/23
+add list=all_cn_ipv6 address=240a:a400::/22
+add list=all_cn_ipv6 address=240a:a800::/21
 add list=all_cn_ipv6 address=240a:c000::/20
 add list=all_cn_ipv6 address=240b:e001::/32
 add list=all_cn_ipv6 address=240b:e002::/31
@@ -8131,6 +8144,7 @@ add list=all_cn_ipv6 address=2a0a:d681:e000::/40
 add list=all_cn_ipv6 address=2a0a:d682:d000::/36
 add list=all_cn_ipv6 address=2a0a:d682:e000::/35
 add list=all_cn_ipv6 address=2a0a:d685:1e0::/48
+add list=all_cn_ipv6 address=2a0a:d685:1fd::/48
 add list=all_cn_ipv6 address=2a0a:d685:1ff::/48
 add list=all_cn_ipv6 address=2a0a:d685:300::/40
 add list=all_cn_ipv6 address=2a0a:d687:f001::/48
@@ -8183,7 +8197,7 @@ add list=all_cn_ipv6 address=2a0f:1cc5:f05::/48
 add list=all_cn_ipv6 address=2a0f:1cc5:f06::/47
 add list=all_cn_ipv6 address=2a0f:1cc5:f08::/47
 add list=all_cn_ipv6 address=2a0f:1cc5:f10::/48
-add list=all_cn_ipv6 address=2a0f:1cc5:f12::/48
+add list=all_cn_ipv6 address=2a0f:1cc5:f12::/47
 add list=all_cn_ipv6 address=2a0f:1cc5:fff::/48
 add list=all_cn_ipv6 address=2a0f:1cc5:1600::/44
 add list=all_cn_ipv6 address=2a0f:1cc5:1c01::/48
