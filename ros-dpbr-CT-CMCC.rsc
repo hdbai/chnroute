@@ -5206,7 +5206,6 @@ add list=CNIP address=163.223.178.0/23
 add list=CNIP address=163.227.40.0/23
 add list=CNIP address=163.228.0.0/16
 add list=CNIP address=163.244.246.0/24
-add list=CNIP address=164.163.236.0/22
 add list=CNIP address=165.101.70.0/24
 add list=CNIP address=165.101.208.0/23
 add list=CNIP address=166.111.0.0/16
@@ -6822,9 +6821,6 @@ add list=all_cn_ipv6 address=2401:b400:16::/47
 add list=all_cn_ipv6 address=2401:b400:20::/47
 add list=all_cn_ipv6 address=2401:b680::/32
 add list=all_cn_ipv6 address=2401:be00::/32
-add list=all_cn_ipv6 address=2401:c020:6::/48
-add list=all_cn_ipv6 address=2401:c020:8::/47
-add list=all_cn_ipv6 address=2401:c020:14::/48
 add list=all_cn_ipv6 address=2401:ca00::/32
 add list=all_cn_ipv6 address=2401:cb80::/32
 add list=all_cn_ipv6 address=2401:cc00::/32
@@ -6872,6 +6868,7 @@ add list=all_cn_ipv6 address=2402:4440:a810::/46
 add list=all_cn_ipv6 address=2402:4b80::/32
 add list=all_cn_ipv6 address=2402:4e00::/32
 add list=all_cn_ipv6 address=2402:5920::/48
+add list=all_cn_ipv6 address=2402:5e40::/32
 add list=all_cn_ipv6 address=2402:5ec0::/32
 add list=all_cn_ipv6 address=2402:6e80::/32
 add list=all_cn_ipv6 address=2402:6f40::/48
@@ -7233,7 +7230,7 @@ add list=all_cn_ipv6 address=2406:840:9700::/40
 add list=all_cn_ipv6 address=2406:840:9804::/46
 add list=all_cn_ipv6 address=2406:840:981a::/48
 add list=all_cn_ipv6 address=2406:840:981c::/46
-add list=all_cn_ipv6 address=2406:840:9962::/47
+add list=all_cn_ipv6 address=2406:840:9962::/48
 add list=all_cn_ipv6 address=2406:840:9964::/48
 add list=all_cn_ipv6 address=2406:840:9966::/47
 add list=all_cn_ipv6 address=2406:840:996c::/48
@@ -8103,7 +8100,6 @@ add list=all_cn_ipv6 address=2605:9d80:9033::/48
 add list=all_cn_ipv6 address=2605:9d80:9042::/48
 add list=all_cn_ipv6 address=2605:9d80:9071::/48
 add list=all_cn_ipv6 address=2605:9d80:9092::/48
-add list=all_cn_ipv6 address=2620:57:4004::/47
 add list=all_cn_ipv6 address=2804:1e48:9002::/48
 add list=all_cn_ipv6 address=2a04:3e00::/29
 add list=all_cn_ipv6 address=2a04:f580:8010::/47
